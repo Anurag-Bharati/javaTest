@@ -1,6 +1,6 @@
-package part1;
+package Rohan;
 
-public class yo {
+public class Rohan {
     public static void main(String[] args) {
         System.out.println("123");
     }
