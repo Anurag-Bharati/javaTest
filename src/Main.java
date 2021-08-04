@@ -5,6 +5,5 @@ public class Main {
         System.out.println("SANIF NICE");
         System.out.println("This is Rohan in the house");
         System.out.println("ROHAN IS HERE");
-
     }
 }
