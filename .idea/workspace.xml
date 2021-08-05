@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f430fbc-48a5-4d2e-b8db-b7bb3eac66bc" name="Default Changelist" comment="">
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
@@ -14,6 +15,11 @@
       <change beforePath="$PROJECT_DIR$/src/Anurag/Anurag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Anurag/Anurag.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Sanif/Sanif.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sanif/Sanif.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/part1/yo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rohan/Rohan.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Anuhan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sanif/Sanif.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sanif/Sanif.java" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
