@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f430fbc-48a5-4d2e-b8db-b7bb3eac66bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/Rohan/Rohan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaTest/Rohan/Rohan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaTest/Sanif/Sanif.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaTest/Sanif/Sanif.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rohan/Rohan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rohan/Rohan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
